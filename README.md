@@ -5,3 +5,8 @@ Bienvenidos a la ERGOG2016.
 
 El sitio oficial es:
  - <http://ergog2016.wixsite.com/ergog>
+
+Missing:
+- Rakhmanov last lecture
+- Degollado tareas
+- Lecture Hernandez
